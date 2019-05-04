@@ -1,6 +1,4 @@
-#!/usr/local/bin/python3
-
-
+#!\Users\figoq\AppData\Local\Programs\Python\Python37-32
 def nota_conceito(valor):
     nota = float(valor)
 
