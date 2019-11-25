@@ -86,3 +86,14 @@ print("Tv50={} Tv32={} Sorvete={} Saudável={}"
       .format(tv_50, tv_32, sorvete, mais_saudavel))
 
 # "{}, {} = {}".format(1, False, 'resultado')
+
+dois = 2
+
+print(dois == 2)
+
+lista = [1, 2, 3, 4, 5]
+print(sum(lista))
+
+x = 15.56489
+
+print(round(x, 3))

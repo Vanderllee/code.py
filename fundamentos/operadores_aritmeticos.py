@@ -19,3 +19,5 @@ despesas = 2456.2
 # Resposta do desafio
 percentual_comprometido = despesas / salario * 100
 percentual_comprometido
+
+print(percentual_comprometido)

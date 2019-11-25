@@ -19,3 +19,4 @@ cores[1:]
 cores.index('amarelo')
 cores.count('Azul')
 len(cores)
+

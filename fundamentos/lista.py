@@ -16,6 +16,8 @@ nova_lista
 nova_lista.reverse()
 nova_lista
 
+print(nova_lista)
+
 # %%
 lista = [1, 5, 'Rebeca', 'Guilherme', 3.1415]
 lista.index('Guilherme')
