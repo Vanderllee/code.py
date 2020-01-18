@@ -1,1 +1,2 @@
-# curso-python
+# Exercícios python
+# python skills
